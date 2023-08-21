@@ -1,0 +1,12 @@
+base = float(input("Ingresá un número: "))
+
+print(f"{base} * 1 = ", 1 * base)
+print(f"{base} * 2 = ", 2 * base)
+print(f"{base} * 3 = ", 3 * base)
+print(f"{base} * 4 = ", 4 * base)
+print(f"{base} * 5 = ", 5 * base)
+print(f"{base} * 6 = ", 6 * base)
+print(f"{base} * 7 = ", 7 * base)
+print(f"{base} * 8 = ", 8 * base)
+print(f"{base} * 9 = ", 9 * base)
+print(f"{base} * 1 = 0", 10 * base)
